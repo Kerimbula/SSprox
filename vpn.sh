@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# SSpro by Chieftain && xyl1gun4eg && VeroN
+# SSprox by Kerimbula && @CulerVPN && @Anonimvpn
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
