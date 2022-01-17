@@ -1419,7 +1419,7 @@ else
 		    user_total=$(echo "${user_info}" | wc -l)
 	clear
 	echo
-	echo  -e " ${Morg}${Blue}Chieftain && xyl1gun4eg && VeroN [SSpro Control]${Font_color_suffix} "
+	echo  -e " ${Morg}${Green}Kerimbula && @CulerVPN && @Anonimvpn [SSpro Control]${Font_color_suffix} "
 	echo
         echo -e " Приветствую, администратор сервера! Дата: ${Blue}$(date +"%d-%m-%Y")"${Font_color_suffix}
         echo -e "
